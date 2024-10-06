@@ -1,3 +1,3 @@
-module gate_protos
+module github.com/HorusEternal/gate_protos
 
 go 1.22
